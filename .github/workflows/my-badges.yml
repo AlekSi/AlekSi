@@ -4,7 +4,7 @@ name: My Badges
 on:
   workflow_dispatch:
   schedule:
-    - cron: "27 5 * * *"
+    - cron: "18 23 * * *"
 
 permissions:
   contents: write
