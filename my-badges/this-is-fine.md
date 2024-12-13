@@ -43,6 +43,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/4607">#4607</a>: Add separate CI job for defining Docker tags
 - <a href="https://github.com/FerretDB/github-actions/pull/300">#300</a>: Bump Go version and tools
 - <a href="https://github.com/FerretDB/FerretDB/pull/4623">#4623</a>: `pngcrush` images
+- <a href="https://github.com/FerretDB/github-actions/pull/307">#307</a>: Use Ubicloud cache when possible
 - <a href="https://github.com/FerretDB/FerretDB/pull/1204">#1204</a>: Use codecov upload token
 - <a href="https://github.com/FerretDB/FerretDB/pull/3105">#3105</a>: Enable `GOMAXPROCS` autotuning
 - <a href="https://github.com/FerretDB/FerretDB/pull/3519">#3519</a>: Use `Ping` for checking connection
