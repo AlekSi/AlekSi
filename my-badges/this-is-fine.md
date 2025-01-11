@@ -48,7 +48,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/dance/pull/1123">#1123</a>: Add TODOs
 - <a href="https://github.com/FerretDB/FerretDB/pull/1204">#1204</a>: Use codecov upload token
 - <a href="https://github.com/FerretDB/FerretDB/pull/3105">#3105</a>: Enable `GOMAXPROCS` autotuning
-- <a href="https://github.com/FerretDB/FerretDB/pull/3519">#3519</a>: Use `Ping` for checking connection
 - <a href="https://github.com/FerretDB/FerretDB/pull/3653">#3653</a>: Clarify MongoDB version
 - <a href="https://github.com/FerretDB/FerretDB/pull/3740">#3740</a>: Make RecordID a signed value
 - <a href="https://github.com/FerretDB/FerretDB/pull/3763">#3763</a>: Clean-up old code for multiple handlers
