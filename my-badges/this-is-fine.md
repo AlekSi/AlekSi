@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/FerretDB/pull/3423">#3423</a>: Add CI configurations
 - <a href="https://github.com/FerretDB/github-actions/pull/216">#216</a>: Allow skipping Go cache
 - <a href="https://github.com/FerretDB/FerretDB/pull/3703">#3703</a>: Allow usage without state dir
 - <a href="https://github.com/FerretDB/FerretDB/pull/3704">#3704</a>: Use `-` in addition to the empty string
