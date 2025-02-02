@@ -110,5 +110,12 @@
     "desc": "I got more than 50 thumbs up.",
     "body": "* <a href=\"https://github.com/microsoft/vscode-go/issues/1982\">60 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-50.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/FerretDB/FerretDB/issues/1731\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   }
 ]
