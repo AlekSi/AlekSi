@@ -4,8 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/FerretDB/pull/3703">#3703</a>: Allow usage without state dir
-- <a href="https://github.com/FerretDB/FerretDB/pull/3704">#3704</a>: Use `-` in addition to the empty string
 - <a href="https://github.com/FerretDB/github-actions/pull/222">#222</a>: Bump deps
 - <a href="https://github.com/FerretDB/github-actions/pull/228">#228</a>: Bump Go to 1.21.5
 - <a href="https://github.com/FerretDB/github-actions/pull/234">#234</a>: Bump Go to 1.21.6
