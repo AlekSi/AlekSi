@@ -43,7 +43,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/dance/pull/1121">#1121</a>: Try to establish pusher connection ASAP
 - <a href="https://github.com/FerretDB/dance/pull/1123">#1123</a>: Add TODOs
 - <a href="https://github.com/FerretDB/FerretDB/pull/4687">#4687</a>: Bump Go
-- <a href="https://github.com/FerretDB/FerretDB/pull/3740">#3740</a>: Make RecordID a signed value
 - <a href="https://github.com/FerretDB/FerretDB/pull/3763">#3763</a>: Clean-up old code for multiple handlers
 - <a href="https://github.com/FerretDB/dance/pull/696">#696</a>: Track MongoDB v7.0 changes
 - <a href="https://github.com/FerretDB/FerretDB/pull/3987">#3987</a>: Refactor `bson2` encoding/decoding
