@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/github-actions/pull/228">#228</a>: Bump Go to 1.21.5
 - <a href="https://github.com/FerretDB/github-actions/pull/234">#234</a>: Bump Go to 1.21.6
 - <a href="https://github.com/FerretDB/FerretDB/pull/3964">#3964</a>: Fix Taskfile.yml indentation
 - <a href="https://github.com/FerretDB/github-actions/pull/247">#247</a>: Bump deps, add a few tests
