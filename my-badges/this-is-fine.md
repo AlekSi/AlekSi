@@ -42,6 +42,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/dance/pull/1123">#1123</a>: Add TODOs
 - <a href="https://github.com/FerretDB/FerretDB/pull/4687">#4687</a>: Bump Go
 - <a href="https://github.com/FerretDB/FerretDB/pull/4815">#4815</a>: Enable Docker Hub and quay.io
+- <a href="https://github.com/FerretDB/FerretDB/pull/4831">#4831</a>: Update TODO comment
 - <a href="https://github.com/FerretDB/FerretDB/pull/3987">#3987</a>: Refactor `bson2` encoding/decoding
 - <a href="https://github.com/FerretDB/FerretDB/pull/4195">#4195</a>: Prepare v1.21.0 release
 - <a href="https://github.com/FerretDB/github-actions/pull/265">#265</a>: Bump Go to 1.22.3 and deps
