@@ -43,12 +43,12 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/4687">#4687</a>: Bump Go
 - <a href="https://github.com/FerretDB/FerretDB/pull/4815">#4815</a>: Enable Docker Hub and quay.io
 - <a href="https://github.com/FerretDB/FerretDB/pull/4831">#4831</a>: Update TODO comment
-- <a href="https://github.com/FerretDB/FerretDB/pull/4849">#4849</a>: Make Data API without authentication if requested
 - <a href="https://github.com/FerretDB/FerretDB/pull/3987">#3987</a>: Refactor `bson2` encoding/decoding
 - <a href="https://github.com/FerretDB/FerretDB/pull/4195">#4195</a>: Prepare v1.21.0 release
 - <a href="https://github.com/FerretDB/github-actions/pull/265">#265</a>: Bump Go to 1.22.3 and deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4363">#4363</a>: Fix `task docker-local` command
 - <a href="https://github.com/FerretDB/FerretDB/pull/4677">#4677</a>: Update URLs for FerretDB v1
+- <a href="https://github.com/FerretDB/FerretDB/pull/4849">#4849</a>: Make Data API without authentication if requested
 - <a href="https://github.com/FerretDB/FerretDB/pull/4307">#4307</a>: Port some changes from v2
 - <a href="https://github.com/FerretDB/FerretDB/pull/4408">#4408</a>: Extract `types` and `zap` code into separate files
 
