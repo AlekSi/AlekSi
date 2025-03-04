@@ -48,7 +48,8 @@ Pull requests:
 - <a href="https://github.com/FerretDB/github-actions/pull/265">#265</a>: Bump Go to 1.22.3 and deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4363">#4363</a>: Fix `task docker-local` command
 - <a href="https://github.com/FerretDB/FerretDB/pull/4677">#4677</a>: Update URLs for FerretDB v1
-- <a href="https://github.com/FerretDB/FerretDB/pull/4849">#4849</a>: Make Data API without authentication if requested
+- <a href="https://github.com/FerretDB/FerretDB/pull/4849">#4849</a>: Make Data API work without authentication if requested
+- <a href="https://github.com/FerretDB/documentdb/pull/31">#31</a>: Adding minor statement to README (#86)
 - <a href="https://github.com/FerretDB/FerretDB/pull/4307">#4307</a>: Port some changes from v2
 - <a href="https://github.com/FerretDB/FerretDB/pull/4408">#4408</a>: Extract `types` and `zap` code into separate files
 

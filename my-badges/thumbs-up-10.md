@@ -2,7 +2,6 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/actions/runner/issues/1877#issuecomment-1120159353">50 👍</a>
 * <a href="https://github.com/codecov/feedback/issues/126">46 👍</a>
 * <a href="https://github.com/prometheus/prometheus/issues/1315">41 👍</a>
 * <a href="https://github.com/golang/go/issues/16526">40 👍</a>
