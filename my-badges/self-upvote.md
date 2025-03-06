@@ -3,6 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/FerretDB/FerretDB/issues/1731">👍</a>
+* <a href="https://github.com/FerretDB/FerretDB/issues/4771">👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
