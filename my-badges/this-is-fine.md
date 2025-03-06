@@ -4,8 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/github-actions/pull/234">#234</a>: Bump Go to 1.21.6
-- <a href="https://github.com/FerretDB/FerretDB/pull/3964">#3964</a>: Fix Taskfile.yml indentation
 - <a href="https://github.com/FerretDB/github-actions/pull/247">#247</a>: Bump deps, add a few tests
 - <a href="https://github.com/FerretDB/github-actions/pull/251">#251</a>: Use Go 1.22.1 and bump deps
 - <a href="https://github.com/FerretDB/dance/pull/809">#809</a>: Bump Go and deps
@@ -51,6 +49,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/4677">#4677</a>: Update URLs for FerretDB v1
 - <a href="https://github.com/FerretDB/FerretDB/pull/4849">#4849</a>: Make Data API work without authentication if requested
 - <a href="https://github.com/FerretDB/documentdb/pull/31">#31</a>: Adding minor statement to README (#86)
+- <a href="https://github.com/FerretDB/FerretDB/pull/4888">#4888</a>: Adjust pool connection timeout
 - <a href="https://github.com/FerretDB/FerretDB/pull/4307">#4307</a>: Port some changes from v2
 - <a href="https://github.com/FerretDB/FerretDB/pull/4408">#4408</a>: Extract `types` and `zap` code into separate files
 
