@@ -52,6 +52,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/4888">#4888</a>: Adjust pool connection timeout
 - <a href="https://github.com/FerretDB/FerretDB/pull/4908">#4908</a>: Add basic structure for middlewares
 - <a href="https://github.com/FerretDB/FerretDB/pull/3905">#3905</a>: Add new BSON decoding package
+- <a href="https://github.com/FerretDB/FerretDB/pull/3997">#3997</a>: Add deep `bson2` decoding
 - <a href="https://github.com/FerretDB/FerretDB/pull/4307">#4307</a>: Port some changes from v2
 - <a href="https://github.com/FerretDB/FerretDB/pull/4408">#4408</a>: Extract `types` and `zap` code into separate files
 
