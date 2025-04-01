@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/github-actions/pull/247">#247</a>: Bump deps, add a few tests
 - <a href="https://github.com/FerretDB/github-actions/pull/251">#251</a>: Use Go 1.22.1 and bump deps
 - <a href="https://github.com/FerretDB/dance/pull/809">#809</a>: Bump Go and deps
 - <a href="https://github.com/FerretDB/github-actions/pull/259">#259</a>: Bump Go to 1.22.2
