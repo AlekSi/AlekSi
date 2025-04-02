@@ -56,6 +56,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/4933">#4933</a>: Sync flags grouping with docs
 - <a href="https://github.com/FerretDB/FerretDB/pull/4941">#4941</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/4974">#4974</a>: Use ERROR level logging for failed tests
+- <a href="https://github.com/FerretDB/FerretDB/pull/4995">#4995</a>: Partially revert middleware changes
 - <a href="https://github.com/FerretDB/FerretDB/pull/3905">#3905</a>: Add new BSON decoding package
 - <a href="https://github.com/FerretDB/FerretDB/pull/3997">#3997</a>: Add deep `bson2` decoding
 - <a href="https://github.com/FerretDB/FerretDB/pull/4307">#4307</a>: Port some changes from v2
