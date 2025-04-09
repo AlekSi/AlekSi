@@ -42,6 +42,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/4831">#4831</a>: Update TODO comment
 - <a href="https://github.com/FerretDB/FerretDB/pull/4881">#4881</a>: Prepare 2.0.0 GA release!
 - <a href="https://github.com/FerretDB/dance/pull/1211">#1211</a>: Update Mergify config
+- <a href="https://github.com/FerretDB/FerretDB/pull/5025">#5025</a>: Minor tweaks for proxy code
 - <a href="https://github.com/FerretDB/FerretDB/pull/3988">#3988</a>: Improve `bson2` fuzzing
 - <a href="https://github.com/FerretDB/FerretDB/pull/4195">#4195</a>: Prepare v1.21.0 release
 - <a href="https://github.com/FerretDB/github-actions/pull/265">#265</a>: Bump Go to 1.22.3 and deps
