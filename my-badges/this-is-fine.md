@@ -4,8 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/github-actions/pull/251">#251</a>: Use Go 1.22.1 and bump deps
-- <a href="https://github.com/FerretDB/dance/pull/809">#809</a>: Bump Go and deps
 - <a href="https://github.com/FerretDB/github-actions/pull/259">#259</a>: Bump Go to 1.22.2
 - <a href="https://github.com/FerretDB/dance/pull/840">#840</a>: Do not install Java in an explicit step
 - <a href="https://github.com/FerretDB/FerretDB/pull/4262">#4262</a>: Remove old BSON implementation
