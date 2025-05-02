@@ -43,6 +43,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5025">#5025</a>: Minor tweaks for proxy code
 - <a href="https://github.com/FerretDB/FerretDB/pull/5054">#5054</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5060">#5060</a>: Update redirects
+- <a href="https://github.com/FerretDB/documentdb/pull/64">#64</a>: Move packaging files
 - <a href="https://github.com/FerretDB/FerretDB/pull/3988">#3988</a>: Improve `bson2` fuzzing
 - <a href="https://github.com/FerretDB/FerretDB/pull/4167">#4167</a>: Fix logging of deeply nested documents
 - <a href="https://github.com/FerretDB/FerretDB/pull/4195">#4195</a>: Prepare v1.21.0 release
