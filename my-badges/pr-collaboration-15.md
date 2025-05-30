@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/percona/mysqld_exporter/pull/35">#35</a>: PMM-2921: Port upstream changes and improvements to our fork
+- <a href="https://github.com/FerretDB/documentdb/pull/76">#76</a>: Merge upstream
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
