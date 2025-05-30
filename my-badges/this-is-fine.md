@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/dance/pull/840">#840</a>: Do not install Java in an explicit step
 - <a href="https://github.com/FerretDB/FerretDB/pull/4262">#4262</a>: Remove old BSON implementation
 - <a href="https://github.com/FerretDB/dance/pull/897">#897</a>: Update deps
 - <a href="https://github.com/FerretDB/github-actions/pull/274">#274</a>: Bump Go version and deps
