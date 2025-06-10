@@ -68,6 +68,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/4307">#4307</a>: Port some changes from v2
 - <a href="https://github.com/FerretDB/FerretDB/pull/4408">#4408</a>: Extract `types` and `zap` code into separate files
 - <a href="https://github.com/FerretDB/FerretDB/pull/5037">#5037</a>: Move `findAndModify` integration tests
+- <a href="https://github.com/FerretDB/FerretDB/pull/4251">#4251</a>: Improve error message for `state.json`
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
