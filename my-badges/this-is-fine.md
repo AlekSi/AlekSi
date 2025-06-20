@@ -45,6 +45,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5138">#5138</a>: Prepare v2.2.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5197">#5197</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5218">#5218</a>: Small documentation tweaks
+- <a href="https://github.com/FerretDB/github-actions/pull/335">#335</a>: Update Nushell to 0.105.1
 - <a href="https://github.com/FerretDB/FerretDB/pull/3988">#3988</a>: Improve `bson2` fuzzing
 - <a href="https://github.com/FerretDB/FerretDB/pull/4167">#4167</a>: Fix logging of deeply nested documents
 - <a href="https://github.com/FerretDB/FerretDB/pull/4195">#4195</a>: Prepare v1.21.0 release
