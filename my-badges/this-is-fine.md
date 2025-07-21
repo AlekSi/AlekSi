@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/github-actions/pull/274">#274</a>: Bump Go version and deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4384">#4384</a>: Fix typo in migration guide
 - <a href="https://github.com/FerretDB/dance/pull/950">#950</a>: Remove old test configurations for now
 - <a href="https://github.com/FerretDB/dance/pull/951">#951</a>: Bump deps
