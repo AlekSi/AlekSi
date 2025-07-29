@@ -47,7 +47,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/3988">#3988</a>: Improve `bson2` fuzzing
 - <a href="https://github.com/FerretDB/FerretDB/pull/4167">#4167</a>: Fix logging of deeply nested documents
 - <a href="https://github.com/FerretDB/FerretDB/pull/4195">#4195</a>: Prepare v1.21.0 release
-- <a href="https://github.com/FerretDB/FerretDB/pull/4363">#4363</a>: Fix `task docker-local` command
 - <a href="https://github.com/FerretDB/FerretDB/pull/4677">#4677</a>: Update URLs for FerretDB v1
 - <a href="https://github.com/FerretDB/FerretDB/pull/4849">#4849</a>: Make Data API work without authentication if requested
 - <a href="https://github.com/FerretDB/documentdb/pull/31">#31</a>: Adding minor statement to README (#86)
