@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/documentdb/pull/52">#52</a>: Use `double` for all `ok` fields
+- <a href="https://github.com/FerretDB/documentdb/pull/76">#76</a>: Merge upstream
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

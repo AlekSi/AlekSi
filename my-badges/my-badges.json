@@ -52,7 +52,7 @@
     "id": "pr-collaboration-15",
     "tier": 3,
     "desc": "I have participated in pull requests with 15 or more people",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/FerretDB/documentdb/pull/52\">#52</a>: Use `double` for all `ok` fields",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/FerretDB/documentdb/pull/76\">#76</a>: Merge upstream",
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
   },
   {
