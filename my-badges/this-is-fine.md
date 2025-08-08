@@ -4,6 +4,7 @@
 
 Pull requests:
 
+- <a href="https://github.com/FerretDB/FerretDB/pull/4383">#4383</a>: Revert codecov version fix
 - <a href="https://github.com/FerretDB/FerretDB/pull/4384">#4384</a>: Fix typo in migration guide
 - <a href="https://github.com/FerretDB/dance/pull/950">#950</a>: Remove old test configurations for now
 - <a href="https://github.com/FerretDB/dance/pull/951">#951</a>: Bump deps
