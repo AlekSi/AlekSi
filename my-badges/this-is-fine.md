@@ -57,6 +57,9 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/4941">#4941</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/4974">#4974</a>: Use ERROR level logging for failed tests
 - <a href="https://github.com/FerretDB/FerretDB/pull/4995">#4995</a>: Partially revert middleware changes
+- <a href="https://github.com/FerretDB/FerretDB/pull/5423">#5423</a>: Update documentation to point to the next release
+- <a href="https://github.com/FerretDB/FerretDB/pull/5429">#5429</a>: Use QEMU on arm64 for Yugabyte for now
+- <a href="https://github.com/FerretDB/FerretDB/pull/5431">#5431</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/3905">#3905</a>: Add new BSON decoding package
 - <a href="https://github.com/FerretDB/FerretDB/pull/3997">#3997</a>: Add deep `bson2` decoding
 - <a href="https://github.com/FerretDB/FerretDB/pull/4148">#4148</a>: Improve `bson2` and `wire` logging
