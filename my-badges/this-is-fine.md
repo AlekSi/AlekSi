@@ -63,7 +63,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/3905">#3905</a>: Add new BSON decoding package
 - <a href="https://github.com/FerretDB/FerretDB/pull/3997">#3997</a>: Add deep `bson2` decoding
 - <a href="https://github.com/FerretDB/FerretDB/pull/4148">#4148</a>: Improve `bson2` and `wire` logging
-- <a href="https://github.com/FerretDB/FerretDB/pull/4408">#4408</a>: Extract `types` and `zap` code into separate files
 - <a href="https://github.com/FerretDB/FerretDB/pull/5037">#5037</a>: Move `findAndModify` integration tests
 
 
