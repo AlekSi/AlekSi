@@ -17,7 +17,6 @@
 - <a href="https://github.com/FerretDB/wire/issues/42">#42</a>
 - <a href="https://github.com/siderolabs/kubelet/issues/42">#42</a>
 - <a href="https://github.com/cosi-project/runtime/issues/42">#42</a>
-- <a href="https://github.com/FerretDB/documentdb/issues/42">#42</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
