@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/dance/pull/959">#959</a>: Move and simplify configuration loading
 - <a href="https://github.com/FerretDB/dance/pull/967">#967</a>: Bump deps
 - <a href="https://github.com/FerretDB/dance/pull/968">#968</a>: Move `tests` to `projects`
 - <a href="https://github.com/FerretDB/dance/pull/969">#969</a>: Support multiple tests for `command` runner
