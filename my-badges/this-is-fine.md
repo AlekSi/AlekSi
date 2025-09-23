@@ -4,8 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/dance/pull/967">#967</a>: Bump deps
-- <a href="https://github.com/FerretDB/dance/pull/968">#968</a>: Move `tests` to `projects`
 - <a href="https://github.com/FerretDB/dance/pull/969">#969</a>: Support multiple tests for `command` runner
 - <a href="https://github.com/AlekSi/golang-tip/pull/89">#89</a>: Delete old Docker images
 - <a href="https://github.com/FerretDB/dance/pull/980">#980</a>: Add Java example project
