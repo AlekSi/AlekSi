@@ -5,7 +5,6 @@
 Pull requests:
 
 - <a href="https://github.com/FerretDB/dance/pull/969">#969</a>: Support multiple tests for `command` runner
-- <a href="https://github.com/AlekSi/golang-tip/pull/89">#89</a>: Delete old Docker images
 - <a href="https://github.com/FerretDB/dance/pull/980">#980</a>: Add Java example project
 - <a href="https://github.com/FerretDB/dance/pull/983">#983</a>: Test various `authMechanism` values
 - <a href="https://github.com/FerretDB/dance/pull/984">#984</a>: Add tests for `PLAIN`
