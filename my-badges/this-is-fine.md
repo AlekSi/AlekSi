@@ -23,13 +23,8 @@ Pull requests:
 - <a href="https://github.com/FerretDB/dance/pull/1121">#1121</a>: Try to establish pusher connection ASAP
 - <a href="https://github.com/FerretDB/dance/pull/1123">#1123</a>: Add TODOs
 - <a href="https://github.com/FerretDB/FerretDB/pull/4687">#4687</a>: Bump Go
-- <a href="https://github.com/FerretDB/FerretDB/pull/3988">#3988</a>: Improve `bson2` fuzzing
-- <a href="https://github.com/FerretDB/FerretDB/pull/4167">#4167</a>: Fix logging of deeply nested documents
 - <a href="https://github.com/FerretDB/FerretDB/pull/4195">#4195</a>: Prepare v1.21.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/4677">#4677</a>: Update URLs for FerretDB v1
-- <a href="https://github.com/FerretDB/FerretDB/pull/3905">#3905</a>: Add new BSON decoding package
-- <a href="https://github.com/FerretDB/FerretDB/pull/3997">#3997</a>: Add deep `bson2` decoding
-- <a href="https://github.com/FerretDB/FerretDB/pull/4148">#4148</a>: Improve `bson2` and `wire` logging
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
