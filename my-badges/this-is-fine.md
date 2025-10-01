@@ -4,10 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/dance/pull/969">#969</a>: Support multiple tests for `command` runner
-- <a href="https://github.com/FerretDB/dance/pull/980">#980</a>: Add Java example project
-- <a href="https://github.com/FerretDB/dance/pull/983">#983</a>: Test various `authMechanism` values
-- <a href="https://github.com/FerretDB/dance/pull/984">#984</a>: Add tests for `PLAIN`
 - <a href="https://github.com/FerretDB/dance/pull/986">#986</a>: Allow PostgreSQL image customization
 - <a href="https://github.com/FerretDB/dance/pull/987">#987</a>: Add `mongo-tools` back
 - <a href="https://github.com/FerretDB/dance/pull/988">#988</a>: Improve verbose mode
