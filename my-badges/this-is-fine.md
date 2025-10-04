@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/dance/pull/986">#986</a>: Allow PostgreSQL image customization
 - <a href="https://github.com/FerretDB/dance/pull/987">#987</a>: Add `mongo-tools` back
 - <a href="https://github.com/FerretDB/dance/pull/988">#988</a>: Improve verbose mode
 - <a href="https://github.com/FerretDB/FerretDB/pull/4544">#4544</a>: Bump Docusaurus
