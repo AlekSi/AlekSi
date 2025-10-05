@@ -5,8 +5,6 @@
 Pull requests:
 
 - <a href="https://github.com/FerretDB/dance/pull/987">#987</a>: Add `mongo-tools` back
-- <a href="https://github.com/FerretDB/dance/pull/988">#988</a>: Improve verbose mode
-- <a href="https://github.com/FerretDB/FerretDB/pull/4544">#4544</a>: Bump Docusaurus
 - <a href="https://github.com/FerretDB/dance/pull/998">#998</a>: Fix `command` runner output
 - <a href="https://github.com/FerretDB/dance/pull/1008">#1008</a>: Bump tools
 - <a href="https://github.com/FerretDB/FerretDB/pull/4564">#4564</a>: Bump deps
