@@ -5,7 +5,7 @@
 - <a href="https://github.com/AlekSi/golang-tip/issues/42">#42</a>
 - <a href="https://github.com/go-reform/reform/issues/42">#42</a>
 - <a href="https://github.com/variadico/noti/issues/42">#42</a>
-- <a href="https://github.com/maddyblue/esc/issues/42">#42</a>
+- <a href="https://github.com/madelynnblue/esc/issues/42">#42</a>
 - <a href="https://github.com/AlekSi/talos/issues/42">#42</a>
 - <a href="https://github.com/FerretDB/dance/issues/42">#42</a>
 - <a href="https://github.com/twisted/txmongo/issues/42">#42</a>
