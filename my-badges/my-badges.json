@@ -110,5 +110,12 @@
     "desc": "I liked my own comment so much that I upvoted it.",
     "body": "* <a href=\"https://github.com/FerretDB/FerretDB/issues/1731\">👍</a>\n* <a href=\"https://github.com/microsoft/vscode/issues/236995\">👍</a>\n* <a href=\"https://github.com/FerretDB/FerretDB/issues/4771\">👍</a>",
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/FerretDB/FerretDB/issues/3413\">#3413</a>: Add MySQL backend",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
   }
 ]
