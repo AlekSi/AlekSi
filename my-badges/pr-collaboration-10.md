@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/percona/pmm/pull/619">#619</a>: PMM-6982 IA settings API
+- <a href="https://github.com/percona/pmm/pull/684">#684</a>: PMM 2.15 changes
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
