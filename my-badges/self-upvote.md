@@ -3,7 +3,6 @@
 <br><br>
 
 * <a href="https://github.com/FerretDB/FerretDB/issues/1731">👍</a>
-* <a href="https://github.com/microsoft/vscode/issues/236995">👍</a>
 * <a href="https://github.com/FerretDB/FerretDB/issues/4771">👍</a>
 
 
