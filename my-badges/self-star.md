@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 36 my own repositories." title="I&apos;ve starred 36 my own repositories." width="128">
-<strong>I&apos;ve starred 36 my own repositories.</strong>
+<img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 37 my own repositories." title="I&apos;ve starred 37 my own repositories." width="128">
+<strong>I&apos;ve starred 37 my own repositories.</strong>
 <br><br>
 
 - <a href="https://github.com/AlekSi/pybeanstalk">AlekSi/pybeanstalk</a>
@@ -38,6 +38,7 @@
 - <a href="https://github.com/AlekSi/pointer">AlekSi/pointer</a>
 - <a href="https://github.com/AlekSi/gocoverutil">AlekSi/gocoverutil</a>
 - <a href="https://github.com/AlekSi/golang-tip">AlekSi/golang-tip</a>
+- <a href="https://github.com/AlekSi/lazyerrors">AlekSi/lazyerrors</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
