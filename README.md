@@ -18,4 +18,8 @@ Hello there! 👋
 <a href="my-badges/thumbs-up-50.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-50.png" alt="I got more than 50 thumbs up." title="I got more than 50 thumbs up." width="64"></a>
 <a href="my-badges/self-upvote.md"><img src="https://my-badges.github.io/my-badges/self-upvote.png" alt="I liked my own comment so much that I upvoted it." title="I liked my own comment so much that I upvoted it." width="64"></a>
 <a href="my-badges/old-issue-1.md"><img src="https://my-badges.github.io/my-badges/old-issue-1.png" alt="I closed an issue that was open for a year" title="I closed an issue that was open for a year" width="64"></a>
+<a href="my-badges/old-issue-2.md"><img src="https://my-badges.github.io/my-badges/old-issue-2.png" alt="I closed an issue that was open for 2 years" title="I closed an issue that was open for 2 years" width="64"></a>
+<a href="my-badges/old-issue-3.md"><img src="https://my-badges.github.io/my-badges/old-issue-3.png" alt="I closed an issue that was open for 3 years" title="I closed an issue that was open for 3 years" width="64"></a>
+<a href="my-badges/old-issue-5.md"><img src="https://my-badges.github.io/my-badges/old-issue-5.png" alt="I closed an issue that was open for 5 years" title="I closed an issue that was open for 5 years" width="64"></a>
+<a href="my-badges/old-issue-6.md"><img src="https://my-badges.github.io/my-badges/old-issue-6.png" alt="I closed an issue that was open for 6 years" title="I closed an issue that was open for 6 years" width="64"></a>
 <!-- my-badges end -->
