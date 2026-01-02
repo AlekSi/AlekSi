@@ -22,4 +22,5 @@ Hello there! 👋
 <a href="my-badges/old-issue-3.md"><img src="https://my-badges.github.io/my-badges/old-issue-3.png" alt="I closed an issue that was open for 3 years" title="I closed an issue that was open for 3 years" width="64"></a>
 <a href="my-badges/old-issue-5.md"><img src="https://my-badges.github.io/my-badges/old-issue-5.png" alt="I closed an issue that was open for 5 years" title="I closed an issue that was open for 5 years" width="64"></a>
 <a href="my-badges/old-issue-6.md"><img src="https://my-badges.github.io/my-badges/old-issue-6.png" alt="I closed an issue that was open for 6 years" title="I closed an issue that was open for 6 years" width="64"></a>
+<a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <!-- my-badges end -->
