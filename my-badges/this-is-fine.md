@@ -5,7 +5,6 @@
 Pull requests:
 
 - <a href="https://github.com/FerretDB/FerretDB/pull/4607">#4607</a>: Add separate CI job for defining Docker tags
-- <a href="https://github.com/FerretDB/github-actions/pull/300">#300</a>: Bump Go version and tools
 - <a href="https://github.com/FerretDB/FerretDB/pull/4623">#4623</a>: `pngcrush` images
 - <a href="https://github.com/FerretDB/FerretDB/pull/4631">#4631</a>: Add workaround for Trivy failures
 - <a href="https://github.com/FerretDB/FerretDB/pull/4654">#4654</a>: Remove old docs and fix linking to the rest
