@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/qedus/osmpbf/pull/18">#18</a>: Fix tests
+- <a href="https://github.com/percona/kardianos-service/pull/4">#4</a>: PMM-1710 Add support for Supervisord
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/percona/pmm/pull/684">#684</a>: PMM 2.15 changes
+- <a href="https://github.com/FerretDB/amazon-documentdb-tools/pull/3">#3</a>: Track upstream changes
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

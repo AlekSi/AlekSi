@@ -9,13 +9,13 @@
 - <a href="https://github.com/AlekSi/talos/issues/42">#42</a>
 - <a href="https://github.com/FerretDB/dance/issues/42">#42</a>
 - <a href="https://github.com/twisted/txmongo/issues/42">#42</a>
-- <a href="https://github.com/gosh-lang/gosh/issues/42">#42</a>
 - <a href="https://github.com/percona/qan-agent/issues/42">#42</a>
 - <a href="https://github.com/percona/pmm-server/issues/42">#42</a>
+- <a href="https://github.com/gosh-lang/gosh/issues/42">#42</a>
 - <a href="https://github.com/percona/pmm-admin/issues/42">#42</a>
 - <a href="https://github.com/percona/pmm-update/issues/42">#42</a>
-- <a href="https://github.com/siderolabs/kubelet/issues/42">#42</a>
 - <a href="https://github.com/FerretDB/wire/issues/42">#42</a>
+- <a href="https://github.com/siderolabs/kubelet/issues/42">#42</a>
 - <a href="https://github.com/cosi-project/runtime/issues/42">#42</a>
 - <a href="https://github.com/FerretDB/documentdb/issues/42">#42</a>
 

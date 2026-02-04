@@ -25,7 +25,6 @@ Issues:
 - <a href="https://github.com/FerretDB/FerretDB/issues/2038">#2038</a>: Sort document fields in lexicographic/numeric order
 - <a href="https://github.com/FerretDB/FerretDB/issues/2155">#2155</a>: Achieve compatibility with PocketBase
 - <a href="https://github.com/FerretDB/FerretDB/issues/2257">#2257</a>: Achieve compatibility with BigBlueButton
-- <a href="https://github.com/FerretDB/FerretDB/issues/1702">#1702</a>: Achieve compatibility with Novu
 - <a href="https://github.com/FerretDB/FerretDB/issues/1917">#1917</a>: Support all aggregation pipelines
 - <a href="https://github.com/FerretDB/FerretDB/issues/1982">#1982</a>: Achieve compatibility with Compass
 - <a href="https://github.com/FerretDB/FerretDB/issues/2503">#2503</a>: Achieve compatibility with DBeaver
