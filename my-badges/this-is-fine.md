@@ -6,7 +6,6 @@ Pull requests:
 
 - <a href="https://github.com/FerretDB/FerretDB/pull/4607">#4607</a>: Add separate CI job for defining Docker tags
 - <a href="https://github.com/FerretDB/FerretDB/pull/4623">#4623</a>: `pngcrush` images
-- <a href="https://github.com/FerretDB/FerretDB/pull/4654">#4654</a>: Remove old docs and fix linking to the rest
 - <a href="https://github.com/FerretDB/github-actions/pull/307">#307</a>: Use Ubicloud cache when possible
 - <a href="https://github.com/FerretDB/dance/pull/1121">#1121</a>: Try to establish pusher connection ASAP
 - <a href="https://github.com/FerretDB/dance/pull/1123">#1123</a>: Add TODOs
