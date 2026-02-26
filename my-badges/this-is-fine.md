@@ -6,8 +6,6 @@ Pull requests:
 
 - <a href="https://github.com/FerretDB/FerretDB/pull/4607">#4607</a>: Add separate CI job for defining Docker tags
 - <a href="https://github.com/FerretDB/FerretDB/pull/4623">#4623</a>: `pngcrush` images
-- <a href="https://github.com/FerretDB/dance/pull/1121">#1121</a>: Try to establish pusher connection ASAP
-- <a href="https://github.com/FerretDB/dance/pull/1123">#1123</a>: Add TODOs
 - <a href="https://github.com/FerretDB/dance/pull/1211">#1211</a>: Update Mergify config
 - <a href="https://github.com/FerretDB/documentdb/pull/69">#69</a>: Fix arm64 builds, part 2
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
