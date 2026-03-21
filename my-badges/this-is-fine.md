@@ -10,7 +10,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/documentdb/pull/69">#69</a>: Fix arm64 builds, part 2
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
-- <a href="https://github.com/FerretDB/github-actions/pull/315">#315</a>: Bump Go to 1.23.5
 - <a href="https://github.com/FerretDB/FerretDB/pull/4686">#4686</a>: Reformat with settings from v2
 - <a href="https://github.com/FerretDB/FerretDB/pull/4687">#4687</a>: Bump Go
 - <a href="https://github.com/FerretDB/FerretDB/pull/4689">#4689</a>: Add FerretDB v2
