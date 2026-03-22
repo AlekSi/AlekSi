@@ -159,5 +159,75 @@
     "desc": "I closed an issue that was open for 10 years",
     "body": "Issues:\n\n- <a href=\"https://github.com/brianmario/yajl-ruby/issues/29\">#29</a>: Benchmark results for small files in README",
     "image": "https://my-badges.github.io/my-badges/old-issue-10.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/cristalhq/bson/commit/a7769a94f410fa3d87b288429042dc5e0ed6805b\"><strong>a</strong>7769a94f410fa3d87b288429042dc5e0ed6805b</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 60 times)\n2. update (used 18 times)\n3. test (used 15 times)\n4. bump (used 14 times)\n5. go (used 13 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AlekSi/documentdb/commit/e19f7d7d6a5cf7ce9ffc29c57e94ede7b1b494a8\">e19f7d7</a>: Fix quay.io login\n- <a href=\"https://github.com/AlekSi/documentdb/commit/6b1b7c3135f4d306e71ae21e9c76b8e21661225e\">6b1b7c3</a>: Fix Docker images building (#27)",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AlekSi/wire/commit/2b5816fe3b4ff87e32a8340dc08167d923b174a5\">2b5816f</a>\n- <a href=\"https://github.com/AlekSi/wire/commit/2df20a87c6a788cae1e321fc9d74cabd5b99e4ea\">2df20a8</a>\n- <a href=\"https://github.com/AlekSi/wire/commit/3a3f654ffff24c017924374710a9e46a4ae991c9\">3a3f654</a>\n- <a href=\"https://github.com/AlekSi/wire/commit/c8f5651ce380da0b23e7071f5c893cd9a41ec2d4\">c8f5651</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AlekSi/metrics/commit/58ce9991981bd6363af8c6f5a2c907f4e4f554fc\">58ce999</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AlekSi/metrics/commit/58ce9991981bd6363af8c6f5a2c907f4e4f554fc\">58ce999</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AlekSi/starlark-githubactions/commit/48726037323f0204abdf6219e52a8dd8e4a45c3d\">4872603</a>\n- <a href=\"https://github.com/AlekSi/starlark-githubactions/commit/688d08e77004c9f4f407a0c6e5b056c7137529d3\">688d08e</a>\n- <a href=\"https://github.com/AlekSi/starlark-githubactions/commit/e21eb3a48b4eab9310c9b670ecf11d701e886c3a\">e21eb3a</a>\n- <a href=\"https://github.com/AlekSi/starlark-githubactions/commit/3fe957a9db96fa818f6c46feb06dda98706ce5b1\">3fe957a</a>\n- <a href=\"https://github.com/AlekSi/bson/commit/ad00c9874d787416d04233d3f7c31063dd87f316\">ad00c98</a>\n- <a href=\"https://github.com/cristalhq/bson/commit/ad00c9874d787416d04233d3f7c31063dd87f316\">ad00c98</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AlekSi/hardcache/commit/c69f31cbfb8bbb0f8d6f996187c1c352d287625b\">c69f31c</a>\n- <a href=\"https://github.com/AlekSi/should/commit/76cf825e1c76c4f45d703e7d99aeb46b2b361a09\">76cf825</a>\n- <a href=\"https://github.com/AlekSi/hardcache/commit/b3c36d846648e325b3d6413c8b2b87c9cf84158d\">b3c36d8</a>\n- <a href=\"https://github.com/AlekSi/hardcache/commit/7e3e754522be3bd68f4b6340aee2ce966342b8ce\">7e3e754</a>\n- <a href=\"https://github.com/AlekSi/wire/commit/c127443d77b782fa9a18847f6ca07664d5d70715\">c127443</a>\n- <a href=\"https://github.com/AlekSi/module-proxy-demo/commit/4e43d42f45252848fe4b665fc173cf8e82336527\">4e43d42</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AlekSi/ftchr/commit/95196e720cba68b7a08a86d5494f0c1c2b7e762b\">95196e7</a>\n- <a href=\"https://github.com/AlekSi/should/commit/a09e1610fbcffe4e11fea3248d933098798f901c\">a09e161</a>\n- <a href=\"https://github.com/AlekSi/wire/commit/2c4a39e8dccfb73a93286365064ab05ddb1f5abd\">2c4a39e</a>\n- <a href=\"https://github.com/AlekSi/documentdb/commit/f7539eebe659bf4f6604b2e2c7f00a815ec6d8e6\">f7539ee</a>\n- <a href=\"https://github.com/AlekSi/documentdb/commit/d468b9b37ca0bb5c8c5044abc1effa5c66dc1c51\">d468b9b</a>\n- <a href=\"https://github.com/AlekSi/documentdb/commit/64e4625a42c931f69746ea61a90bcc06b89b15db\">64e4625</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/AlekSi/resource/commit/5c3dc119101989ce8878cc51bbba685b3c42d96f\">5c3dc11</a>\n- <a href=\"https://github.com/AlekSi/wire/commit/f4d27059ff06253aece8add453afcf64bf4beb02\">f4d2705</a>\n- <a href=\"https://github.com/AlekSi/documentdb/commit/bf0ebfa0a8cb21e3649848da3c5e9127c2b00eef\">bf0ebfa</a>\n- <a href=\"https://github.com/AlekSi/documentdb/commit/e19f7d7d6a5cf7ce9ffc29c57e94ede7b1b494a8\">e19f7d7</a>\n- <a href=\"https://github.com/AlekSi/documentdb/commit/085831953fa405618c3b454d1f4c1051fff58221\">0858319</a>\n- <a href=\"https://github.com/AlekSi/wire/commit/2b5816fe3b4ff87e32a8340dc08167d923b174a5\">2b5816f</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
