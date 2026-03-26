@@ -10,7 +10,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/documentdb/pull/69">#69</a>: Fix arm64 builds, part 2
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
-- <a href="https://github.com/FerretDB/FerretDB/pull/4689">#4689</a>: Add FerretDB v2
 - <a href="https://github.com/FerretDB/FerretDB/pull/4698">#4698</a>: Disable xfail CI configuration for now
 - <a href="https://github.com/FerretDB/github-actions/pull/318">#318</a>: Bump Go and deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4743">#4743</a>: Bump deps
