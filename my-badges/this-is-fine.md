@@ -96,7 +96,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/4713">#4713</a>: Do not use Git LFS for Go files
 - <a href="https://github.com/FerretDB/FerretDB/pull/4803">#4803</a>: Bump Go deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4832">#4832</a>: Improve messages about DocumentDB version
 - <a href="https://github.com/FerretDB/FerretDB/pull/4849">#4849</a>: Make Data API work without authentication if requested
