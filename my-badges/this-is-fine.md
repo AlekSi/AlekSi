@@ -7,7 +7,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/4607">#4607</a>: Add separate CI job for defining Docker tags
 - <a href="https://github.com/FerretDB/FerretDB/pull/4623">#4623</a>: `pngcrush` images
 - <a href="https://github.com/FerretDB/dance/pull/1211">#1211</a>: Update Mergify config
-- <a href="https://github.com/FerretDB/documentdb/pull/69">#69</a>: Fix arm64 builds, part 2
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/FerretDB/github-actions/pull/318">#318</a>: Bump Go and deps
@@ -44,6 +43,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5096">#5096</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5098">#5098</a>: Add Dependabot configuration for `main-v1`
 - <a href="https://github.com/FerretDB/FerretDB/pull/5115">#5115</a>: Update DocumentDB
+- <a href="https://github.com/FerretDB/documentdb/pull/69">#69</a>: Fix arm64 builds, part 2
 - <a href="https://github.com/FerretDB/FerretDB/pull/5134">#5134</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/5135">#5135</a>: Prepare 1.24.1 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5138">#5138</a>: Prepare v2.2.0 release
