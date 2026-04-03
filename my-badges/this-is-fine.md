@@ -9,8 +9,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/dance/pull/1211">#1211</a>: Update Mergify config
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
-- <a href="https://github.com/FerretDB/github-actions/pull/318">#318</a>: Bump Go and deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/4743">#4743</a>: Bump deps
 - <a href="https://github.com/FerretDB/github-actions/pull/321">#321</a>: Use Go 1.24.0
 - <a href="https://github.com/FerretDB/FerretDB/pull/4775">#4775</a>: Use Go 1.24.0
 - <a href="https://github.com/FerretDB/FerretDB/pull/4802">#4802</a>: Enable building FerretDB as PostgreSQL background worker
