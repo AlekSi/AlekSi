@@ -135,7 +135,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5431">#5431</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5434">#5434</a>: Make `Run` wait for all `Handle` calls to finish
 - <a href="https://github.com/FerretDB/FerretDB/pull/5435">#5435</a>: Tweak `conninfo`
-- <a href="https://github.com/FerretDB/FerretDB/pull/4723">#4723</a>: Add/update TODO comments for some issues
 - <a href="https://github.com/FerretDB/FerretDB/pull/4759">#4759</a>: Use `/` consistently in MongoDB URIs
 - <a href="https://github.com/FerretDB/FerretDB/pull/4781">#4781</a>: Tweak CLI for disabling interfaces
 - <a href="https://github.com/FerretDB/FerretDB/pull/4839">#4839</a>: Bump DocumentDB for development
