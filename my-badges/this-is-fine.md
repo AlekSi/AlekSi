@@ -9,8 +9,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/dance/pull/1211">#1211</a>: Update Mergify config
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
-- <a href="https://github.com/FerretDB/github-actions/pull/321">#321</a>: Use Go 1.24.0
-- <a href="https://github.com/FerretDB/FerretDB/pull/4775">#4775</a>: Use Go 1.24.0
 - <a href="https://github.com/FerretDB/FerretDB/pull/4802">#4802</a>: Enable building FerretDB as PostgreSQL background worker
 - <a href="https://github.com/FerretDB/FerretDB/pull/4805">#4805</a>: Tweak Docusaurus configuration
 - <a href="https://github.com/FerretDB/FerretDB/pull/4807">#4807</a>: Make embeddable package logging configurable
@@ -135,7 +133,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5431">#5431</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5434">#5434</a>: Make `Run` wait for all `Handle` calls to finish
 - <a href="https://github.com/FerretDB/FerretDB/pull/5435">#5435</a>: Tweak `conninfo`
-- <a href="https://github.com/FerretDB/FerretDB/pull/4781">#4781</a>: Tweak CLI for disabling interfaces
 - <a href="https://github.com/FerretDB/FerretDB/pull/4839">#4839</a>: Bump DocumentDB for development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5037">#5037</a>: Move `findAndModify` integration tests
 - <a href="https://github.com/FerretDB/FerretDB/pull/5042">#5042</a>: Update wire
