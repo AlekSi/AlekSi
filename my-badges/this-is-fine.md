@@ -92,7 +92,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/4803">#4803</a>: Bump Go deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4832">#4832</a>: Improve messages about DocumentDB version
 - <a href="https://github.com/FerretDB/FerretDB/pull/4849">#4849</a>: Make Data API work without authentication if requested
 - <a href="https://github.com/FerretDB/FerretDB/pull/4865">#4865</a>: Unskip tests that refer to closed issue
@@ -143,7 +142,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5261">#5261</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5326">#5326</a>: Refactor normal and error responses
 - <a href="https://github.com/FerretDB/FerretDB/pull/5396">#5396</a>: Make a resource.Untrack thread-safe
-- <a href="https://github.com/FerretDB/FerretDB/pull/4778">#4778</a>: Re-introduce embeddable package
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
