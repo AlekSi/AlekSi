@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/amazon-documentdb-tools/pull/3">#3</a>: Track upstream changes
+- <a href="https://github.com/FerretDB/documentdb/pull/15">#15</a>: Merge upstream
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

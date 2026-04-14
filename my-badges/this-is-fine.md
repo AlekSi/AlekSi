@@ -123,7 +123,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5431">#5431</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5434">#5434</a>: Make `Run` wait for all `Handle` calls to finish
 - <a href="https://github.com/FerretDB/FerretDB/pull/5435">#5435</a>: Tweak `conninfo`
-- <a href="https://github.com/FerretDB/FerretDB/pull/4839">#4839</a>: Bump DocumentDB for development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5037">#5037</a>: Move `findAndModify` integration tests
 - <a href="https://github.com/FerretDB/FerretDB/pull/5042">#5042</a>: Update wire
 - <a href="https://github.com/FerretDB/FerretDB/pull/5080">#5080</a>: Skip `bypassEmptyTsReplacement` parameters for now
