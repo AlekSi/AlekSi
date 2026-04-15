@@ -84,7 +84,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4832">#4832</a>: Improve messages about DocumentDB version
-- <a href="https://github.com/FerretDB/FerretDB/pull/4849">#4849</a>: Make Data API work without authentication if requested
 - <a href="https://github.com/FerretDB/FerretDB/pull/4865">#4865</a>: Unskip tests that refer to closed issue
 - <a href="https://github.com/FerretDB/github-actions/pull/324">#324</a>: Update Go to 1.24.1
 - <a href="https://github.com/FerretDB/FerretDB/pull/4888">#4888</a>: Adjust pool connection timeout
