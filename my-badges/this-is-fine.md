@@ -10,7 +10,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/FerretDB/FerretDB/pull/4810">#4810</a>: Update changelog generator
-- <a href="https://github.com/FerretDB/documentdb/pull/31">#31</a>: Adding minor statement to README (#86)
 - <a href="https://github.com/FerretDB/FerretDB/pull/4859">#4859</a>: Prepare release
 - <a href="https://github.com/FerretDB/FerretDB/pull/4874">#4874</a>: Final preparations
 - <a href="https://github.com/FerretDB/FerretDB/pull/4875">#4875</a>: Bump Go and safe deps
