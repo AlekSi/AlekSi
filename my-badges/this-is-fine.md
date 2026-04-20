@@ -4,15 +4,10 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/FerretDB/pull/4607">#4607</a>: Add separate CI job for defining Docker tags
-- <a href="https://github.com/FerretDB/FerretDB/pull/4623">#4623</a>: `pngcrush` images
 - <a href="https://github.com/FerretDB/dance/pull/1211">#1211</a>: Update Mergify config
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/FerretDB/FerretDB/pull/4810">#4810</a>: Update changelog generator
-- <a href="https://github.com/FerretDB/FerretDB/pull/4874">#4874</a>: Final preparations
-- <a href="https://github.com/FerretDB/FerretDB/pull/4875">#4875</a>: Bump Go and safe deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/4881">#4881</a>: Prepare 2.0.0 GA release!
 - <a href="https://github.com/FerretDB/FerretDB/pull/4975">#4975</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5005">#5005</a>: Use Go 1.24.2
 - <a href="https://github.com/FerretDB/FerretDB/pull/5011">#5011</a>: Create redirects for `/v2.0/` documentation URLs
@@ -81,7 +76,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/github-actions/pull/324">#324</a>: Update Go to 1.24.1
 - <a href="https://github.com/FerretDB/FerretDB/pull/4888">#4888</a>: Adjust pool connection timeout
 - <a href="https://github.com/FerretDB/FerretDB/pull/4908">#4908</a>: Add basic structure for middlewares
 - <a href="https://github.com/FerretDB/FerretDB/pull/4911">#4911</a>: Make production builds of the `main` branch
