@@ -76,7 +76,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/4888">#4888</a>: Adjust pool connection timeout
 - <a href="https://github.com/FerretDB/FerretDB/pull/4908">#4908</a>: Add basic structure for middlewares
 - <a href="https://github.com/FerretDB/FerretDB/pull/4911">#4911</a>: Make production builds of the `main` branch
 - <a href="https://github.com/FerretDB/FerretDB/pull/4916">#4916</a>: Bump deps
