@@ -77,7 +77,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4908">#4908</a>: Add basic structure for middlewares
-- <a href="https://github.com/FerretDB/FerretDB/pull/4911">#4911</a>: Make production builds of the `main` branch
 - <a href="https://github.com/FerretDB/FerretDB/pull/4916">#4916</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4923">#4923</a>: Change the way OP_MSG handlers are invoked
 - <a href="https://github.com/FerretDB/FerretDB/pull/4925">#4925</a>: Improve integration benchmarks
