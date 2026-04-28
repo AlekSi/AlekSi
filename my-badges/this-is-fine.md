@@ -76,7 +76,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/4908">#4908</a>: Add basic structure for middlewares
 - <a href="https://github.com/FerretDB/FerretDB/pull/4923">#4923</a>: Change the way OP_MSG handlers are invoked
 - <a href="https://github.com/FerretDB/FerretDB/pull/4925">#4925</a>: Improve integration benchmarks
 - <a href="https://github.com/FerretDB/FerretDB/pull/4932">#4932</a>: Configure connection pool size in tests
