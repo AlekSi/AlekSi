@@ -8,7 +8,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/FerretDB/FerretDB/pull/4810">#4810</a>: Update changelog generator
-- <a href="https://github.com/FerretDB/FerretDB/pull/4975">#4975</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5005">#5005</a>: Use Go 1.24.2
 - <a href="https://github.com/FerretDB/FerretDB/pull/5011">#5011</a>: Create redirects for `/v2.0/` documentation URLs
 - <a href="https://github.com/FerretDB/FerretDB/pull/5012">#5012</a>: Disable commit check for now
@@ -76,7 +75,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/4941">#4941</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/4980">#4980</a>: Disable tracing in benchmarks for now
 - <a href="https://github.com/FerretDB/FerretDB/pull/4995">#4995</a>: Partially revert middleware changes
 - <a href="https://github.com/FerretDB/FerretDB/pull/4996">#4996</a>: Add more tests for error handling
