@@ -75,7 +75,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/4980">#4980</a>: Disable tracing in benchmarks for now
 - <a href="https://github.com/FerretDB/FerretDB/pull/4995">#4995</a>: Partially revert middleware changes
 - <a href="https://github.com/FerretDB/FerretDB/pull/4996">#4996</a>: Add more tests for error handling
 - <a href="https://github.com/FerretDB/FerretDB/pull/5008">#5008</a>: Remove error middleware for now
