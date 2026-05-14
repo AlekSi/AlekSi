@@ -7,6 +7,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/dance/pull/1211">#1211</a>: Update Mergify config
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
+- <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
 - <a href="https://github.com/FerretDB/FerretDB/pull/4810">#4810</a>: Update changelog generator
 - <a href="https://github.com/FerretDB/FerretDB/pull/5005">#5005</a>: Use Go 1.24.2
 - <a href="https://github.com/FerretDB/FerretDB/pull/5011">#5011</a>: Create redirects for `/v2.0/` documentation URLs
