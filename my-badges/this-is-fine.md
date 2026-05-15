@@ -4,7 +4,6 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/dance/pull/1211">#1211</a>: Update Mergify config
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
@@ -77,7 +76,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4995">#4995</a>: Partially revert middleware changes
-- <a href="https://github.com/FerretDB/FerretDB/pull/4996">#4996</a>: Add more tests for error handling
 - <a href="https://github.com/FerretDB/FerretDB/pull/5008">#5008</a>: Remove error middleware for now
 - <a href="https://github.com/FerretDB/FerretDB/pull/5015">#5015</a>: Update Docker images
 - <a href="https://github.com/FerretDB/FerretDB/pull/5050">#5050</a>: Use "PostgreSQL with DocumentDB extension" phrase
