@@ -7,10 +7,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
-- <a href="https://github.com/FerretDB/FerretDB/pull/4810">#4810</a>: Update changelog generator
-- <a href="https://github.com/FerretDB/FerretDB/pull/5011">#5011</a>: Create redirects for `/v2.0/` documentation URLs
-- <a href="https://github.com/FerretDB/FerretDB/pull/5012">#5012</a>: Disable commit check for now
-- <a href="https://github.com/FerretDB/FerretDB/pull/5013">#5013</a>: Prepare v2.1.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5024">#5024</a>: Update deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/5025">#5025</a>: Minor tweaks for proxy code
 - <a href="https://github.com/FerretDB/FerretDB/pull/5026">#5026</a>: Move tests for sessions
@@ -75,7 +71,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4995">#4995</a>: Partially revert middleware changes
-- <a href="https://github.com/FerretDB/FerretDB/pull/5008">#5008</a>: Remove error middleware for now
 - <a href="https://github.com/FerretDB/FerretDB/pull/5015">#5015</a>: Update Docker images
 - <a href="https://github.com/FerretDB/FerretDB/pull/5050">#5050</a>: Use "PostgreSQL with DocumentDB extension" phrase
 - <a href="https://github.com/FerretDB/FerretDB/pull/5101">#5101</a>: Fix linters for v1
