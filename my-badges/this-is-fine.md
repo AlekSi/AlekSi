@@ -71,7 +71,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/4995">#4995</a>: Partially revert middleware changes
-- <a href="https://github.com/FerretDB/FerretDB/pull/5015">#5015</a>: Update Docker images
 - <a href="https://github.com/FerretDB/FerretDB/pull/5050">#5050</a>: Use "PostgreSQL with DocumentDB extension" phrase
 - <a href="https://github.com/FerretDB/FerretDB/pull/5101">#5101</a>: Fix linters for v1
 - <a href="https://github.com/FerretDB/FerretDB/pull/5144">#5144</a>: Update versions to point to the next release
