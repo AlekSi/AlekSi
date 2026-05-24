@@ -7,7 +7,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
-- <a href="https://github.com/FerretDB/FerretDB/pull/5032">#5032</a>: Merge Msg and Query into a single type
 - <a href="https://github.com/FerretDB/FerretDB/pull/5045">#5045</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5054">#5054</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5060">#5060</a>: Update redirects
