@@ -87,7 +87,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5431">#5431</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5434">#5434</a>: Make `Run` wait for all `Handle` calls to finish
 - <a href="https://github.com/FerretDB/FerretDB/pull/5435">#5435</a>: Tweak `conninfo`
-- <a href="https://github.com/FerretDB/FerretDB/pull/5042">#5042</a>: Update wire
 - <a href="https://github.com/FerretDB/FerretDB/pull/5080">#5080</a>: Skip `bypassEmptyTsReplacement` parameters for now
 - <a href="https://github.com/FerretDB/FerretDB/pull/5086">#5086</a>: Document required features
 - <a href="https://github.com/FerretDB/FerretDB/pull/5099">#5099</a>: Fix Docker tags for pre-release git tags
