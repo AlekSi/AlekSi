@@ -62,7 +62,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/5101">#5101</a>: Fix linters for v1
 - <a href="https://github.com/FerretDB/FerretDB/pull/5144">#5144</a>: Update versions to point to the next release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5169">#5169</a>: Revert "Update CODEOWNERS"
 - <a href="https://github.com/FerretDB/FerretDB/pull/5182">#5182</a>: Add `permissions` to GitHub Actions workflows
@@ -82,8 +81,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5431">#5431</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5434">#5434</a>: Make `Run` wait for all `Handle` calls to finish
 - <a href="https://github.com/FerretDB/FerretDB/pull/5435">#5435</a>: Tweak `conninfo`
-- <a href="https://github.com/FerretDB/FerretDB/pull/5086">#5086</a>: Document required features
-- <a href="https://github.com/FerretDB/FerretDB/pull/5099">#5099</a>: Fix Docker tags for pre-release git tags
 - <a href="https://github.com/FerretDB/FerretDB/pull/5208">#5208</a>: Refactor resource tracking tests
 - <a href="https://github.com/FerretDB/FerretDB/pull/5261">#5261</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5326">#5326</a>: Refactor normal and error responses
