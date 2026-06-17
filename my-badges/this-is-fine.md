@@ -8,7 +8,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
 - <a href="https://github.com/FerretDB/FerretDB/pull/5098">#5098</a>: Add Dependabot configuration for `main-v1`
-- <a href="https://github.com/FerretDB/FerretDB/pull/5115">#5115</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/documentdb/pull/69">#69</a>: Fix arm64 builds, part 2
 - <a href="https://github.com/FerretDB/FerretDB/pull/5134">#5134</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/5135">#5135</a>: Prepare 1.24.1 release
