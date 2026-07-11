@@ -55,7 +55,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/5169">#5169</a>: Revert "Update CODEOWNERS"
 - <a href="https://github.com/FerretDB/FerretDB/pull/5182">#5182</a>: Add `permissions` to GitHub Actions workflows
 - <a href="https://github.com/FerretDB/FerretDB/pull/5217">#5217</a>: Use DocumentDB's support for `bypassEmptyTsReplacement`
 - <a href="https://github.com/FerretDB/FerretDB/pull/5292">#5292</a>: Refactor requests handling
