@@ -7,8 +7,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
-- <a href="https://github.com/FerretDB/FerretDB/pull/5098">#5098</a>: Add Dependabot configuration for `main-v1`
-- <a href="https://github.com/FerretDB/FerretDB/pull/5170">#5170</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/5184">#5184</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/5201">#5201</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5218">#5218</a>: Small documentation tweaks
@@ -55,7 +53,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/5182">#5182</a>: Add `permissions` to GitHub Actions workflows
 - <a href="https://github.com/FerretDB/FerretDB/pull/5217">#5217</a>: Use DocumentDB's support for `bypassEmptyTsReplacement`
 - <a href="https://github.com/FerretDB/FerretDB/pull/5292">#5292</a>: Refactor requests handling
 - <a href="https://github.com/FerretDB/FerretDB/pull/5296">#5296</a>: Add Dependabot configuration for mcphost
