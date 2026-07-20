@@ -51,6 +51,7 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
+- <a href="https://github.com/FerretDB/dance/pull/1229">#1229</a>: Various improvements
 - <a href="https://github.com/FerretDB/FerretDB/pull/5217">#5217</a>: Use DocumentDB's support for `bypassEmptyTsReplacement`
 - <a href="https://github.com/FerretDB/FerretDB/pull/5292">#5292</a>: Refactor requests handling
 - <a href="https://github.com/FerretDB/FerretDB/pull/5296">#5296</a>: Add Dependabot configuration for mcphost
