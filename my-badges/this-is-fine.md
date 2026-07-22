@@ -7,8 +7,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
-- <a href="https://github.com/FerretDB/FerretDB/pull/5223">#5223</a>: Update TODO comments
-- <a href="https://github.com/FerretDB/FerretDB/pull/5236">#5236</a>: Bump Go and deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/5242">#5242</a>: Use DocumentDB's `compat` command
 - <a href="https://github.com/FerretDB/FerretDB/pull/5252">#5252</a>: Improve telemetry configuration for embedded FerretDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5254">#5254</a>: Prepare v2.3.0 release
