@@ -60,7 +60,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5431">#5431</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5434">#5434</a>: Make `Run` wait for all `Handle` calls to finish
 - <a href="https://github.com/FerretDB/FerretDB/pull/5435">#5435</a>: Tweak `conninfo`
-- <a href="https://github.com/FerretDB/FerretDB/pull/5261">#5261</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5326">#5326</a>: Refactor normal and error responses
 - <a href="https://github.com/FerretDB/FerretDB/pull/5396">#5396</a>: Make a resource.Untrack thread-safe
 
