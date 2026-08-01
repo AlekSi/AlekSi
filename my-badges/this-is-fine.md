@@ -7,7 +7,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
-- <a href="https://github.com/FerretDB/FerretDB/pull/5268">#5268</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/github-actions/pull/335">#335</a>: Update Nushell to 0.105.1
 - <a href="https://github.com/FerretDB/FerretDB/pull/5280">#5280</a>: Wrap long lines in a blog post
 - <a href="https://github.com/FerretDB/FerretDB/pull/5282">#5282</a>: Update DocumentDB
