@@ -7,7 +7,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
-- <a href="https://github.com/FerretDB/FerretDB/pull/5307">#5307</a>: Bump deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/5342">#5342</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5389">#5389</a>: Encapsulate PostgreSQL pool in the Handler
 - <a href="https://github.com/FerretDB/FerretDB/pull/5392">#5392</a>: Bump DocumentDB version
@@ -41,8 +40,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/5292">#5292</a>: Refactor requests handling
-- <a href="https://github.com/FerretDB/FerretDB/pull/5312">#5312</a>: Do not use deprecated method
 - <a href="https://github.com/FerretDB/FerretDB/pull/5327">#5327</a>: Avoid extra marshaling
 - <a href="https://github.com/FerretDB/FerretDB/pull/5353">#5353</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5378">#5378</a>: Simplify flags handling
