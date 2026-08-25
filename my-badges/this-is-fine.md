@@ -40,7 +40,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/5327">#5327</a>: Avoid extra marshaling
 - <a href="https://github.com/FerretDB/FerretDB/pull/5353">#5353</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5378">#5378</a>: Simplify flags handling
 - <a href="https://github.com/FerretDB/FerretDB/pull/5380">#5380</a>: Update DocumentDB
