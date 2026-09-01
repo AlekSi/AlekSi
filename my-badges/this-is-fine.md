@@ -7,7 +7,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
-- <a href="https://github.com/FerretDB/FerretDB/pull/5342">#5342</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5389">#5389</a>: Encapsulate PostgreSQL pool in the Handler
 - <a href="https://github.com/FerretDB/FerretDB/pull/5392">#5392</a>: Bump DocumentDB version
 - <a href="https://github.com/FerretDB/FerretDB/pull/5398">#5398</a>: Update DocumentDB
