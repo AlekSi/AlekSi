@@ -36,7 +36,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/5403">#5403</a>: Update Prometheus metrics
 - <a href="https://github.com/FerretDB/FerretDB/pull/5423">#5423</a>: Update documentation to point to the next release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5429">#5429</a>: Use QEMU on arm64 for Yugabyte for now
 - <a href="https://github.com/FerretDB/FerretDB/pull/5431">#5431</a>: Update DocumentDB

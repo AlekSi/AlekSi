@@ -22,7 +22,7 @@ Hello there! 👋
 <a href="my-badges/old-issue-6.md"><img src="https://my-badges.github.io/my-badges/old-issue-6.png" alt="I closed an issue that was open for 6 years" title="I closed an issue that was open for 6 years" width="64"></a>
 <a href="my-badges/this-is-fine.md"><img src="https://my-badges.github.io/my-badges/this-is-fine.png" alt="I merged a PR with failing checks" title="I merged a PR with failing checks" width="64"></a>
 <a href="my-badges/old-issue-10.md"><img src="https://my-badges.github.io/my-badges/old-issue-10.png" alt="I closed an issue that was open for 10 years" title="I closed an issue that was open for 10 years" width="64"></a>
-<a href="my-badges/public-keys-2.md"><img src="https://my-badges.github.io/my-badges/public-keys-2.png" alt="I have two public keys" title="I have two public keys" width="64"></a>
+<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <!-- my-badges end -->
 
 [![An image of @aleksi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aleksi)](https://holopin.io/@aleksi)
