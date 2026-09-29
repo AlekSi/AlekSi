@@ -36,8 +36,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/FerretDB/pull/5538">#5538</a>: Prepare v2.7.0 release
 - <a href="https://github.com/FerretDB/FerretDB/pull/5543">#5543</a>: Back to development
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
-- <a href="https://github.com/FerretDB/FerretDB/pull/5423">#5423</a>: Update documentation to point to the next release
-- <a href="https://github.com/FerretDB/FerretDB/pull/5429">#5429</a>: Use QEMU on arm64 for Yugabyte for now
 - <a href="https://github.com/FerretDB/FerretDB/pull/5431">#5431</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5434">#5434</a>: Make `Run` wait for all `Handle` calls to finish
 - <a href="https://github.com/FerretDB/FerretDB/pull/5435">#5435</a>: Tweak `conninfo`
