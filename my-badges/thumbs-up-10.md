@@ -25,6 +25,7 @@
 * <a href="https://github.com/lib/pq/issues/329#issuecomment-193180518">13 👍</a>
 * <a href="https://github.com/go-reform/reform/issues/54">11 👍</a>
 * <a href="https://github.com/golang/go/issues/25146">11 👍</a>
+* <a href="https://github.com/FerretDB/FerretDB/issues/4267">11 👍</a>
 * <a href="https://github.com/microsoft/vscode-go/issues/1982#issuecomment-428143645">11 👍</a>
 
 
