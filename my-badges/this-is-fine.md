@@ -4,11 +4,9 @@
 
 Pull requests:
 
-- <a href="https://github.com/FerretDB/FerretDB/pull/5461">#5461</a>: Add FerretDB Cloud blog post
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
 - <a href="https://github.com/FerretDB/FerretDB/pull/5440">#5440</a>: Improve proxy mode observability
-- <a href="https://github.com/FerretDB/FerretDB/pull/5462">#5462</a>: Add Cease and Desist Notice
 - <a href="https://github.com/FerretDB/FerretDB/pull/5467">#5467</a>: Add helpers for lazy logging
 - <a href="https://github.com/FerretDB/FerretDB/pull/5468">#5468</a>: Move to `documentdb/documentdb`
 - <a href="https://github.com/FerretDB/FerretDB/pull/5479">#5479</a>: Update dependencies
