@@ -7,7 +7,6 @@ Pull requests:
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
 - <a href="https://github.com/FerretDB/FerretDB/pull/5440">#5440</a>: Improve proxy mode observability
-- <a href="https://github.com/FerretDB/FerretDB/pull/5485">#5485</a>: Finalize PostgreSQL metrics
 - <a href="https://github.com/FerretDB/github-actions/pull/341">#341</a>: Update Go to 1.25.1
 - <a href="https://github.com/FerretDB/FerretDB/pull/5508">#5508</a>: Use Go 1.25.1
 - <a href="https://github.com/FerretDB/FerretDB/pull/5509">#5509</a>: Bump deps
