@@ -6,9 +6,7 @@ Pull requests:
 
 - <a href="https://github.com/FerretDB/github-actions/pull/345">#345</a>: Bump Go
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
-- <a href="https://github.com/FerretDB/FerretDB/pull/5525">#5525</a>: Use Go 1.25.3
 - <a href="https://github.com/FerretDB/FerretDB/pull/5526">#5526</a>: Skip flaky test for now
-- <a href="https://github.com/FerretDB/FerretDB/pull/5527">#5527</a>: Use forked lazyerrors
 - <a href="https://github.com/FerretDB/FerretDB/pull/5528">#5528</a>: Update DocumentDB
 - <a href="https://github.com/FerretDB/FerretDB/pull/5534">#5534</a>: Use Go 1.25.4
 - <a href="https://github.com/FerretDB/FerretDB/pull/5536">#5536</a>: Bump DocumentDB
