@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/AlekSi/golang-tip/pull/123">#123</a>: Bump timeout and schedule
+- <a href="https://github.com/FerretDB/github-actions/pull/351">#351</a>: Bump Go and deps
 - <a href="https://github.com/FerretDB/FerretDB/pull/5584">#5584</a>: Bump deps
 
 
